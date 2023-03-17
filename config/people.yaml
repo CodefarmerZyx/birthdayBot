@@ -4,11 +4,41 @@ People:
 #     Calendar : "lunar"  # 阴历：lunar 阳历：solar
 #     DistanceConfig : 1  # 设置生日提前几天提醒, 最大为3, 0为当天提醒
   - Name : "黄雅婷"
-    Day : "09-12-23"
+    Day : "2009-12-23"
     Calendar : "lunar"
     DistanceConfig : 1
     
   - Name : "张轶翔"
-    Day : "08-12-18"
+    Day : "2008-12-18"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "颜慧宁"
+    Day : "2009-08-24"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "黄泌柔"
+    Day : "2009-02-15"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "黄宜皓"
+    Day : "2009-03-27"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "吴欣妍"
+    Day : "2009-11-30"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "王奕煊"
+    Day : "2009-08-31"
+    Calendar : "lunar"
+    DistanceConfig : 1
+    
+  - Name : "陈鑫磊"
+    Day : "2009-01-16"
     Calendar : "lunar"
     DistanceConfig : 1
