@@ -1,10 +1,10 @@
 Receive:
   Email:
-    - "2892211452@qq.com"
+    - "2078170660@qq.com"
 
 Send:
-  - Email : "3153773203@qq.com"
-    SMTPPwd : "yycjqpfwnuzwdfbf"
+  - Email : "2078170660@qq.com"
+    SMTPPwd : "vgddliqnapbbdcji"
     SMTPServer : "smtp.qq.com"
 
 Template:
