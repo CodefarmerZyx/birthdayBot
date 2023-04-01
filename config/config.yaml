@@ -5,7 +5,7 @@ Receive:
 Send:
   - Email : "2078170660@qq.com"
     SMTPPwd : "vgddliqnapbbdcji"
-    SMTPServer : "smtp.qq.com"
+    SMTPServer : "smtp.qq.com:465"
 
 Template:
   MessageTmp : "是{}的生日🎂，具体日期是{}（{}）"
